@@ -26,4 +26,7 @@ Rでのデータを読み込み方、データフレームの扱い、基本的�
 
 **4. Rの基礎その3**
 
-Rでの基礎的な統計解析、様々なパッケージを用いたグラフ描写について紹介する予定(未定)。
+Rでの基礎的な統計解析、様々なパッケージを用いたグラフ描写について紹介する予定。
+
+.. image:: _static/images/programming/colab-badge.svg
+   :target: https://colab.research.google.com/github/slt666666/basic_informatics_2022/blob/master/source/_static/colab_notebook/RL04.ipynb
